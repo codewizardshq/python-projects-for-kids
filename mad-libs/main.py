@@ -5,7 +5,7 @@ Mad Libs
 """
 
 welcome_message = """
-        Welcome to the 'Mad Libs' app!
+    Welcome to the 'Mad Libs' app!
 
     In this app, you'll respond to the prompts 
     with the correct type of word. A Mad Lib will

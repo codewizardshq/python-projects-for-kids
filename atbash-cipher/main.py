@@ -22,7 +22,7 @@ def run_atbash_cipher(text):
 
 
 welcome_message = """
-        Welcome to the 'Atbash Cipher' app!
+    Welcome to the 'Atbash Cipher' app!
 
     In this app, you'll enter text and then 
     choose to encrypt or decrypt it using the

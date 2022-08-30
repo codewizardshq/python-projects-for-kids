@@ -10,7 +10,7 @@ from random import randint
 
 
 welcome_message = """
-        Welcome to 'Guess The Number'!
+    Welcome to 'Guess The Number'!
 
     In this app, you'll need to guess a number between
     1 and 10. You have 3 turns to guess correctly. 

@@ -25,7 +25,7 @@ def search_video_game_data(video_game_data, game_name):
 
 
 welcome_message = """
-        Welcome to the 'Video Game Browser' app!
+    Welcome to the 'Video Game Browser' app!
 
     In this app, you can view video game data including the
     year of release, the title, and the platform the game was

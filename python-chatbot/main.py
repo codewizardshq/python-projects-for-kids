@@ -8,7 +8,7 @@ Chatbot
 from random import choice
 
 welcome_message = """
-        Welcome to the "Python Chatbot" app!
+    Welcome to the "Python Chatbot" app!
 
     This is a simple chatbot that you can send commands
     to and it will perform some action. The five recognized

@@ -31,7 +31,7 @@ def display_joke(joke):
 
 
 welcome_message = """
-        Welcome to the `Random Dad Joke` app!
+    Welcome to the `Random Dad Joke` app!
 
     This app uses an API to fetch a random setup
     and punchline to a dad joke. The setup will

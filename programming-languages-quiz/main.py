@@ -6,7 +6,7 @@ Quiz App
 """
 
 welcome_message = """
-        Welcome to the 'Programming Languages Quiz' app!
+    Welcome to the 'Programming Languages Quiz' app!
     
     In this app, you'll be asked a series of questions about
     different programming languages. You'll see a different 
